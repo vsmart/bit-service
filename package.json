@@ -11,6 +11,7 @@
     "type": "git",
     "url": "github.com/vsmart/bit-service"
   },
+  "engines" : { "node" : ">=16" } ,
   "author": "Franka Schmidt",
   "license": "ISC",
   "dependencies": {
